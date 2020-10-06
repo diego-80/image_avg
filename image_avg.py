@@ -1,4 +1,3 @@
-# example path: "/Users/diegorao/Desktop/Drone Stuff/Ball Templates/Red"
 import sys
 import os
 import cv2 as cv
